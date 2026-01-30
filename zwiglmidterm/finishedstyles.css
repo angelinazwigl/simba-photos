@@ -1,0 +1,34 @@
+body { background-color: #DCDCF5;
+    font-family: "MS Sans Serif", Geneva, sans-serif;  }
+header { background-color: #FEFFED;
+      background-repeat: no-repeat;
+      font-weight: bold;
+      height: 40%;
+      background-size: 100%;	
+      color: #000000;
+      text-align: center; 
+      }
+h1 { font-family: "sans-serif, Helvetica, Arial";
+    font-size: 5.0em;
+    padding-top: 20px; }
+h2 { font-size: 1.5em; }
+button { height: 10%;
+         font-size: 120%; 
+         border: none;
+         background-color: transparent;
+         font-family: inherit;
+         padding: 0;
+         cursor: pointer; }
+#cream { float: left;
+         margin-left: 100px;
+         color: #32527B;  }
+#darkblue { margin-right: 100px;
+            padding-right: 400px;
+            color: #32527B;  }
+#purple { margin-right: px; 
+          color: purple; }
+#black { float: right;
+    margin-right: 100px;
+    color: purple; }
+#nanogallery2 {
+    touch-action: none; }
